@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ogetager.github.io/sitemap.html.gz
+Sitemap: https://ogetager.github.io/app/sitemap.html.gz
+Sitemap: https://ogetager.github.io/assets/sitemap.html.gz
+Sitemap: https://ogetager.github.io/css/sitemap.html.gz
+Sitemap: https://ogetager.github.io/includes/sitemap.html.gz
+Sitemap: https://ogetager.github.io/item/sitemap.html.gz
+Sitemap: https://ogetager.github.io/src/sitemap.html.gz
